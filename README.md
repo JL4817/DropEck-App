@@ -64,8 +64,6 @@ You usually only need to do this once.
 - `/help`
 
 ## Shortcuts and Gestures
-
-- `⌘ + ⌥ + U` — toggle DropEck
 - Top edge pull — show panel
 - Upward pull — hide panel
 - Left edge pull — show left panel
