@@ -75,9 +75,6 @@ You usually only need to do this once.
 - macOS
 
 ## Screenshots
-
-Add screenshots here after you upload them to your repository.
-
-## License
-
-Add your license here if you want to make the project open source.
+<img width="916" height="416" alt="image" src="https://github.com/user-attachments/assets/66422cd5-8f97-4134-9ac5-ef85a0cb0715" />
+<img width="906" height="415" alt="image" src="https://github.com/user-attachments/assets/5e55bb74-e620-42b7-b811-0fe0de1c185e" />
+<img width="515" height="432" alt="image" src="https://github.com/user-attachments/assets/16a6cb86-36b2-453c-9af5-bc3ce6ba013d" />
