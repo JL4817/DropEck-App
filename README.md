@@ -1,5 +1,9 @@
 # DropEck-App
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e353e10f-f2dc-4701-962b-53cd2c56c0ae" alt="DropEck logo" width="180" />
+</p>
+
 DropEck is a macOS menu bar utility for quick access to your clipboard, notes, snippets, tasks, and dropzone files.
 
 ## Features
